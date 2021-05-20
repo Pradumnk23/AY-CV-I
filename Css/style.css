@@ -1,0 +1,33 @@
+body{
+    background-color: #EAF6F6;
+    
+    text-align: center;
+}
+h1,h3{
+    color: brown;
+}
+
+img{
+    border-radius: 50%;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 3px;
+    width: 5%;
+}
+.intro{ /* To centre the table */
+    margin-left: auto;
+    margin-right: auto;
+}
+.skill{
+    margin-left: auto;
+    margin-right: auto;
+}
+.ahccws{ /* To center the list , make all classes same. */
+    text-align: center;
+    display: inline-block;
+    text-align: left;
+}
